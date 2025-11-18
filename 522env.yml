@@ -1,0 +1,4 @@
+name: 522env
+channels:
+  - conda-forge
+prefix: C:\Users\derri\miniforge3\envs\522env
